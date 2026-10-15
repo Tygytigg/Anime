@@ -15,6 +15,7 @@ DOMAINE = "https://anime-sama.to"
 INTERVALLE_MIN = 30                
 
 ANIMES = {
+    "AO ASHI":"/catalogue/ao-ashi/saison2/vostfr/",
     "The ramparts of ice": "/catalogue/the-ramparts-of-ice/saison2/vf/", # Espace corrigé ici !
     "Tokyo Revengers": "/catalogue/tokyo-revengers/saison4/vostfr/",
     "Dragon Ball Daima": "/catalogue/dragon-ball-daima/saison1/vostfr/",
